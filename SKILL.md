@@ -3,8 +3,8 @@ name: media-hoax-design
 description: A skill for designing elaborate fictions that expose media credulity and teach critical thinking about information sources.
 license: MIT
 metadata:
+  version: 1.0.4473
   author: sethmblack
-  version: 1.0.4472
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - media-hoax-design
